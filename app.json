@@ -8,7 +8,7 @@
     "stack": "container",
     "env": {
          "BotName": {
-             "description": "Mr.Hacker"s name (Eg:- Queen Anya)",
+             "description": "Mr.Hacker" (Eg:- Queen Anya)",
              "required": false
          },
          "Footer": {
